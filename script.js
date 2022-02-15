@@ -110,7 +110,7 @@ let starSize = canvas.width / 11;
 x = 0;
 y = 0;
 
-
+/*
 // row 1
 let star_00 = new Star(0, 0, starSize, getColor(), getColor(), ctx);
 star_00.draw();
@@ -334,3 +334,4 @@ star_88.draw();
 x += (boxWidth * 2);
 let star_810 = new Star(x, y, starSize, getColor(), getColor(), ctx);
 star_810.draw();
+*/
